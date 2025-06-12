@@ -484,14 +484,14 @@ footer ul {
 }
 footer li {
     font-size: 14px;
-    padding: 0 20px 22px 20px;
+    padding: 0 20px;
 }
 footer li:not(:last-child) {
     border-right: solid 1px #fff;
 }
 footer p {
     font-size: 12px;
-    margin-bottom: 22px;
+    padding-bottom: 22px;
 }
 /*-------------------------------------
 totop
